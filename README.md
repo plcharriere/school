@@ -11,7 +11,7 @@ I joined 42 Paris on November 2018.
 - [get_next_line](https://github.com/plcharriere/school/tree/main/42/get_next_line) is a function to read until `\n`
 - [ft_ls](https://github.com/plcharriere/school/tree/main/42/ft_ls) is a clone of the unix `ls` command.
 - [ft_select](https://github.com/plcharriere/school/tree/main/42/ft_select) is a termcaps project to select given strings in arguments.
-- [minishell](https://github.com/plcharriere/school/tree/main/42/minishell) is a minimal shell
+- [minishell](https://github.com/plcharriere/school/tree/main/42/minishell) is a minimal shell.
 
 #### PHP
 
@@ -31,3 +31,11 @@ I did not study at ESILV but I did a project for a friend who studied there.
 #### C#
 
 - [mixmo](https://github.com/plcharriere/school/tree/main/ESILV/mixmo) is a terminal based game of writing words in a grid like Scrabble
+
+## High School
+
+I studied _Informatique et Sciences du Numérique_ (a french computer oriented discipline) in High School.
+
+#### Python
+
+- [mastermind](https://github.com/plcharriere/mastermind.py) is mastermind game made with Tkinter.
